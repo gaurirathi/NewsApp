@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Coverage directory used by testing tools
+coverage/
+
+# Operating system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# IDE files (VSCode, IntelliJ)
+.vscode/
+.idea/
+
+# Build files (React, Webpack)
+build/
+dist/
